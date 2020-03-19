@@ -22,7 +22,6 @@ Función para iniciar el autoScroll horizontal del contenedor, recibe como param
 ```
 Función para parar el autoScroll horizontal del contenedor, una vez inicializado nuevamente se reiniciara el scroll horizontal desde el comienzo
 ```javascript
-/* "slider-card" es el nombre de la clase del elemento HTML */
     stop();
 ```
 
